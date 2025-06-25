@@ -1,13 +1,13 @@
 body{
     color: white;
-    background-color: rgb(223, 4, 4);
+    background-color: black;
     font-family: "Chakra Petch", sans-serif;
    
 }
 
  h1{
-        font-size: 10px;
+        font-size: 40px;
     }
     p{
-        font-size: 5px;
+        font-size: 120px;
     }
