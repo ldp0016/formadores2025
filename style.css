@@ -39,3 +39,11 @@ section {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+.categoriavideos img {
+     opacity: 0.5;
+}
+
+.categoriavideos img:hover {
+     opacity: 1.0;
+}
